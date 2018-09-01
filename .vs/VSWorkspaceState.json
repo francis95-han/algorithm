@@ -1,8 +1,13 @@
 {
   "ExpandedNodes": [
     "",
-    "\\md"
+    "\\md",
+    "\\md\\algorithm",
+    "\\md\\structure",
+    "\\structure",
+    "\\structure\\list",
+    "\\structure\\list\\list"
   ],
-  "SelectedNode": "\\md\\algorithm",
+  "SelectedNode": "\\.gitignore",
   "PreviewInSolutionExplorer": false
 }
